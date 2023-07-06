@@ -1,4 +1,2 @@
 #!/bin/bash
-cowsay -f vader "A long time ago in a galaxy far, far away...."
-cowsay -f vader "It is a period of civil war.
-
+telnet towel.blinkenlights.nl
